@@ -6,7 +6,7 @@ I'm a Tier 3 Tech Support Rep and my hometown is San Diego, CA.
 - Full-Stack Engineering (HTML/CSS/JS/Python and PostgreSQL)
 - Containerization
 - Virtualization (KVM/QEMU, Hyper-V, etc.)
-- Containerization (Docker)
+- Containerization (Docker, Podman, LXC/LXD/LXCFS)
 
 :rocket: Open for project collaboration.
 
