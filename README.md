@@ -1,6 +1,8 @@
 # Hi everyone, I'm Chloe
 
-I'm a Tier 3 Tech Support Rep and my hometown is San Diego, CA.
+I'm a Tier 3 Tech Support Rep at a web hosting company, but switching to a NOC Engineer role starting 11-28.
+
+My hometown is San Diego, CA.
 
 :mortar_board: Exploring and learning new tech stacks:
 - Full-Stack Engineering (HTML/CSS/JS/Python and PostgreSQL)
