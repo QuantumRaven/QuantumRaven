@@ -1,6 +1,6 @@
 # Hi everyone, I'm Chloe
 
-I'm a Tier 3 Tech Support Rep at a web hosting company, but switching to a NOC Engineer role starting 11-28.
+I'm a NOC Engineer I at a a networking company, but learning as much as I can about Linux Engineering and DevOps to land in one of those fields.
 
 My hometown is San Diego, CA.
 
