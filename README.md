@@ -1,6 +1,6 @@
 # Hi everyone, I'm Chloe
 
-I'm a NOC Engineer I at a a networking company, but learning as much as I can about Linux Engineering and DevOps to land in one of those fields.
+I'm a NOC Engineer I at a networking company, but learning as much as I can about Linux Engineering and DevOps to land in one of those fields.
 
 My hometown is San Diego, CA.
 
